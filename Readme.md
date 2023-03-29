@@ -1,1 +1,1 @@
-This is demo project from Prometheus course "The base of devops and Kubernetis"
+This is demo project from Prometheus course "The base of devops and Kubernetes"
