@@ -31,4 +31,4 @@ jobs:
           push: true
           tags: ghrc.io/alplabdevelop/edu_prometheus_devops:SHA256:9Rn8TJk6CmjX7pyjbnSNk7oK2b9zcLcoY5/vPsYPBMs
       - name: Image digest
-        run: echo ${{ steps.docker_build.outputs.digest }}
+        run: echo 'staps'
